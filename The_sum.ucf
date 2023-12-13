@@ -1,0 +1,5 @@
+NET 	"START" 		LOC = T5;
+NET 	"A" 			LOC = T10, T9, V9;
+NET 	"B" 			LOC = M8, N8, U8;
+
+NET 	"LED" 		LOC = U16, V16, U15, V15, M11, N11, R11, T11;
