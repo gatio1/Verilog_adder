@@ -1,5 +1,18 @@
 NET 	"START" 		LOC = T5;
-NET 	"A" 			LOC = T10, T9, V9;
-NET 	"B" 			LOC = M8, N8, U8;
 
-NET 	"LED" 		LOC = U16, V16, U15, V15, M11, N11, R11, T11;
+NET 	"A[0]" 		LOC = T10;
+NET 	"A[1]" 		LOC = T9;
+NET 	"A[2]" 		LOC = V9;
+
+NET 	"B[0]" 		LOC = M8;
+NET 	"B[1]" 		LOC = N8;
+NET 	"B[2]" 		LOC = U8;
+
+NET 	"LED[0]"		LOC = U16;
+NET 	"LED[1]"		LOC = V16;
+NET 	"LED[2]"		LOC = U15;
+NET 	"LED[3]"		LOC = V15;
+NET 	"LED[4]"		LOC = M11;
+NET 	"LED[5]"		LOC = N11;
+NET 	"LED[6]"		LOC = R11;
+NET 	"LED[7]"		LOC = T11;

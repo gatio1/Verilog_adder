@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/vassil/workspace/xilinx/sum/The_sum_isim_beh.exe" -prj "/home/vassil/workspace/xilinx/sum/The_sum_beh.prj" "work.The_sum" "work.glbl" 

@@ -1,0 +1,20 @@
+NET 	"I_REG[0]" 	LOC = T10
+NET 	"I_REG[1]" 	LOC = T9
+NET 	"I_REG[2]" 	LOC = V9
+NET 	"I_REG[3]" 	LOC = M8
+NET 	"I_REG[4]" 	LOC = N8
+NET 	"I_REG[5]" 	LOC = U8
+NET 	"I_REG[6]" 	LOC = V8
+NET 	"I_REG[7]" 	LOC = T5
+
+NET	"O_REG[0]" 	LOC = U16
+NET	"O_REG[1]" 	LOC = V16
+NET	"O_REG[2]" 	LOC = U15
+NET	"O_REG[3]" 	LOC = V15
+NET	"O_REG[4]" 	LOC = M11
+NET	"O_REG<5>" 	LOC = N11
+NET	"O_REG[6]" 	LOC = R11
+NET	"O_REG[7]" 	LOC = T11
+
+NET	"CARRY"		LOC = M13
+NET	"CARRY_EN"	LOC = P17

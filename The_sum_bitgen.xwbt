@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/vassil/workspace/xilinx/sum/The_sum.ncd
+OUTFILE=/home/vassil/workspace/xilinx/sum/The_sum.bit
+FAMILY=Spartan6
+PART=xc6slx16-2csg324
+WORKINGDIR=/home/vassil/workspace/xilinx/sum
+LICENSE=WebPack
+USER_INFO=212866452_0_0_314

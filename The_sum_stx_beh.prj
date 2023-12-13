@@ -1,0 +1,2 @@
+verilog isim_temp "The_sum.v"
+verilog isim_temp "/opt/14.7/ISE_DS/ISE//verilog/src/glbl.v"
